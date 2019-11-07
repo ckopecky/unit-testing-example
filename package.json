@@ -1,0 +1,16 @@
+{
+  "name": "unit-testing-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ckopecky/unit-testing-example.git",
+  "author": "\"ckopecky\" <kopecky12112@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^24.9.0",
+    "supertest": "^4.0.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
